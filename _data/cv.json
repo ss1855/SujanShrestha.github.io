@@ -1,22 +1,22 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Sujan Shrestha",
+    "email": "sujanshrestha@my.unt.edu",
+    "phone": "4239468965",
+    "website": "https://ss1855.github.io",
+    "summary": "Student at University of North Texas. ",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "",
+      "countryCode": "USA",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://https://scholar.google.com/citations?hl=en&user=uBOZh7wAAAAJ"
       },
       {
         "network": "ORCID",
